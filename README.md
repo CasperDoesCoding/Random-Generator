@@ -29,6 +29,11 @@ Then run tests by typing tox into your preferred console.
 
 ## TODO
 - [ ] Write Todo list
+- [ ] Write tests
+- [ ] Write documentation
+- [ ] Write code
+- [ ] Write more code
+- [ ] Write even more code
 
 ## Authors
 
