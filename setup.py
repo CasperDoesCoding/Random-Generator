@@ -3,9 +3,9 @@ from setuptools import setup
 from setuptools import find_namespace_packages
 
 setup(
-    name="template",
+    name="random_lib_gen",  # Dont have a official name yet
     version="0.0.1",
-    description="template",
+    description="A library for generating all kinds of random data",
     long_description=open(
         path.join(path.abspath(path.dirname(__file__)), "README.md")
     ).read(),
